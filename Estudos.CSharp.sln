@@ -5,8 +5,6 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWord", "HelloWord\HelloWord.csproj", "{E192A2C6-DD9F-48C1-9E76-EC5CC74979E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma", "Soma\Soma.csproj", "{0CDE2F60-1BBC-4E86-A11A-381E76813B5C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{E192A2C6-DD9F-48C1-9E76-EC5CC74979E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E192A2C6-DD9F-48C1-9E76-EC5CC74979E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E192A2C6-DD9F-48C1-9E76-EC5CC74979E4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0CDE2F60-1BBC-4E86-A11A-381E76813B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0CDE2F60-1BBC-4E86-A11A-381E76813B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0CDE2F60-1BBC-4E86-A11A-381E76813B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0CDE2F60-1BBC-4E86-A11A-381E76813B5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
